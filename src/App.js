@@ -7,7 +7,7 @@ function App() {
       
 	  <div className="Appx">
 	  
-	  <h1>Kilopi ambassador program</h1>
+	  <h1>Kilopi Ambassador program</h1>
 
 	   <h4>( Ambassador program details may change according to the project’s needs in time )</h4>
 	   
@@ -35,7 +35,7 @@ function App() {
 	   
 	   
 	   <h2>Benefits</h2>
-	   <h3>50.000,00 ( 50 K ) Kilopi [LOP] tokens every month ( May increase according to the support of the Ambassador )</h3>
+	   <h3>Between 1.000,00 ( 1 K ) and 50.000,00 ( 50 K ) Kilopi [LOP] tokens monthly ( According to the organic percentage and behaviour )</h3>
 	   
 	   
 	   <h2>Apply</h2>

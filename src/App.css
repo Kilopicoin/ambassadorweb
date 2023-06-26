@@ -10,8 +10,13 @@
 }
 
 :root {
-  background-color: black;
+  background-image: radial-gradient(circle, #0074a6, #3e507a, #3d324c, #271b24, #000000);
   font-family: sans-serif;
+}
+
+a {
+
+  color: cyan;
 }
 
 h1 {
@@ -21,12 +26,12 @@ h1 {
 
 h3 {
   text-align: center;
-  color: #cc6600;
+  color: #c4c7ad;
 }
 
 h4 {
   text-align: center;
-  color: #cc6600;
+  color: #c4c7ad;
 }
 
 h2 {
